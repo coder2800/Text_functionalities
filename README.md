@@ -46,4 +46,4 @@ npm install
 On performing each step, a confirmation alert will be visible on the site.
 
 ## Developed by:
-Devansh Agarwal (coder2800). Reach out to me at devanshag0707@gmail.com
+Devansh Agarwal (coder2800).
